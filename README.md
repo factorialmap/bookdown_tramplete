@@ -13,7 +13,7 @@
 
 ### Neste material você vai ver:
 - A construção de um livro usando bookdown
-- O link para o vídeo da Joyce Robbins ensinando como fazer
+- O link para o vídeo da Joyce Robbins ensinando como fazer : https://youtu.be/m5D-yoH416Y
 - O código com as etapas de análise com os comentários
 
 ### Foco: 
