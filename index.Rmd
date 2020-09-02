@@ -1,9 +1,8 @@
 --- 
-title: "YOUR TITLE HERE"
-author: "YOUR NAME HERE"
+title: "O uso do método PDCA e de ferramentas da qualidade na gestão da agroindústria no estado de Mato Grosso do Sul"
+author: "Marcelo Carvalho dos Anjos"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 ---
 
 # Down the rabbit-hole
-
