@@ -5,4 +5,6 @@ date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 ---
 
-# Down the rabbit-hole
+# Introdução
+
+A presente pesquisa buscou avaliar o nível de conhecimento e o uso do método Plan, Do, Check, Action (PDCA) e de ferramentas da qualidade no agronegócio de Mato Grosso do Sul (MS), bem como a relação entre o uso dessas técnicas e o desempenho das empresas que as utilizam. Para isso, realizou-se uma pesquisa exploratória descritiva, usando uma amostra de empresas agroindustriais de Mato Grosso do Sul, aplicando-se um questionário semi-estruturado aos profissionais dirigentes das mesmas. Constatou-se que o número de agroindústrias que utilizam o método PDCA é pequeno, enquanto é moderado o número de empresas que usam alguma ferramenta da qualidade no gerenciamento de seus processos. Com relação ao impacto do uso dessas técnicas nos processos industriais, observou-se que houve melhorias em grande parte das agroindústrias que as utilizam. Constatou-se que o não conhecimento dessas técnicas é um dos fatores mais relevantes para a não utilização das mesmas. Foi possível identificar algumas características de empresas que utilizam mais efetivamente o método PDCA e ferramentas da qualidade, que são: maior número de funcionários; maior nível de instrução de suas equipes e maior nível de automação de processos.
